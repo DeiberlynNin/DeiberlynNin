@@ -74,7 +74,7 @@ Finalmente desarrollé el despliegue en producción del modelo y me aseguré a t
 
 **Tecnologías:** Python · Machine Learning · FastAPI · Docker · Streamlit · MLOps
 
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/DeiberlynNin/Sistema_MLOps_de_Riesgo_Crediticio])
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiberlynNin/credit-risk-prediction-models)
 
 ---
 
