@@ -84,7 +84,7 @@ Finalmente desarrollé el despliegue en producción del modelo y me aseguré a t
 
 Cuento con una entidad financiera que presenta un 20% de clientes que abandonan sus productos (clientes **Churn**). El cliente solicita un sistema de predicción **(Machine Learning)** que permita identificar con tiempo los posibles clientes que puedan tener esta conducta. Por lo que se me permite analizar su datos y encontrar factores claves que permiten el desarrollo del entrenamiento de múltiples modelos de predicción, como también identificar que los clientes con la **mayor cantidad de productos de la entidad**, son los que más abandonan los servicios **(insight de oportunidad de negocio para el departamento de Análisis de Datos)**. 
 
-En el proyecto realicé análisis exploratorio de datos, entrenamiento y optimización de modelos, clustering, reducción de dimensionalidad, comparativa de métricas y varios documentos de recomendaciones a la entidad financiera abordando posibles soluciones para los clientes actuales que cuentan con una cantidad notoria de sus productos![Uploading Portada.png…]()
+En el proyecto realicé análisis exploratorio de datos, entrenamiento y optimización de modelos, clustering, reducción de dimensionalidad, comparativa de métricas y varios documentos de recomendaciones a la entidad financiera abordando posibles soluciones para los clientes actuales que cuentan con una cantidad notoria de sus productos.
 .
 
 **Tecnologías:** Python · Scikit-learn · XGBoost · LightGBM · CatBoost · Optuna
