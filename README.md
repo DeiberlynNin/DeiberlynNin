@@ -1,7 +1,7 @@
 <img width="2172" height="724" alt="Portada(2)" src="https://github.com/user-attachments/assets/a043eb99-3f55-4076-ad41-28797210d6e5" />
 <div align="center">
   
-**Data Scientist Junior enfocada en transformar datos en información útil para la toma de decisiones.**
+**Data Scientist enfocada en transformar datos en información útil para la toma de decisiones.**
 
 </div>
 
